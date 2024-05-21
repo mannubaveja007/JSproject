@@ -1,0 +1,9 @@
+Minted NFT ==> Mannu
+Minted NFT ==> Baveja
+Minted NFT ==> Learning
+Minted NFT ==> web3
+{ name: 'Mannu', colour: 'GREEN', eyecolour: 'BROWN' }
+{ name: 'Baveja', colour: 'GREEN', eyecolour: 'BROWN' }
+{ name: 'Learning', colour: 'GREEN', eyecolour: 'BROWN' }
+{ name: 'web3', colour: 'GREEN', eyecolour: 'BROWN' }
+4
